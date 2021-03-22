@@ -1,5 +1,6 @@
 import time
 import random
+import re
 
 async def uwu_insult(message):
     insults = [

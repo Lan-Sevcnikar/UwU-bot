@@ -1,5 +1,6 @@
 import time
 import random
+import re
 
 async def uwu_roll(message):
     s = message.content.lower()
