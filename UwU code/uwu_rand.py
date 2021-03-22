@@ -59,12 +59,12 @@ async def uwu_help(message):
     helpEmbed = discord.Embed(title = "Who's my little baby?")
     helpEmbed.add_field(name = "What I can do?", value = """
 **UwU multiattack** - made to speed up rolling dice.
-**UwU multiroll** - made for rolling many pacts of dice at once
-**UwU insult** - made for the good hearted of us 
-**UwU roll** - made for when Avery (*the lil' bitch*) is down
-**UwU help** - made for babies like you
-**UwU say** - made so that you can make me your bitch, daddy
-**UwU dance** - made for sick fucks that like them hips move
+**UwU multiroll** - made for rolling many pacts of dice at once.
+**UwU insult** - made for the good hearted of us.
+**UwU roll** - made for when Avery (*the lil' bitch*) is down.
+**UwU help** - made for babies like you.
+**UwU say** - made so that you can make me your bitch, daddy.
+**UwU dance** - made for sick fucks that like them hips move.
 """, inline = False)
     helpEmbed.add_field(name = "UwU", value = "awr X3 *nuzzles* How are you? *pounces on you* you're so warm o3o *notices you have a bulge* someone's happy! *nuzzles your necky wecky* ~murr~ hehe ;) *rubbies your bulgy wolgy* you're so big! *rubbies more on your bulgy wolgy* it doesn't stop growing .///. *kisses you and licks your neck* daddy likes ;)")
     await message.channel.send(embed = helpEmbed)
